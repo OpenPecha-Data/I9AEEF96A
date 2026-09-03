@@ -1,0 +1,25 @@
+id: I9AEEF96A
+initial_creation_type: ebook
+source_metadata:
+  id: KHA-DO-02
+  title: ༄༅། །གསོལ་འདེབས་ཀྱི་རྒྱལ་པོ་ཞེས་བྱ་བའི་གཞུང་དང་ས་བཅད་སྦྲགས་མ་བཞུགས་སོ།།
+  author: མཛད་པ་པོ། ༧ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  authors: &id001
+  - མཛད་པ་པོ། ༧ཇོ་ནང་ཀུན་མཁྱེན་དོལ་པོ་སངས་རྒྱས།
+  sku: KHA-DO-02
+  cover: KHA-DO-02.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །གསོལ་འདེབས་ཀྱི་རྒྱལ་པོ་ཞེས་བྱ་བའི་གཞུང་དང་ས་བཅད་སྦྲགས་མ་བཞུགས་སོ།།
+  authors: *id001
+  sku: KHA-DO-02
+  cover: KHA-DO-02.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
+- Yigchung
